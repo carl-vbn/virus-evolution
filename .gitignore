@@ -1,0 +1,9 @@
+Library/
+.vscode/
+Build/
+obj/
+Logs/
+
+*.csproj
+*.sln
+*.ttf
