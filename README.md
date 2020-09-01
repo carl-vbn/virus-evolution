@@ -1,8 +1,8 @@
 # Virus-Evolution
 
 The Unity project I made to simulate the evolution of a virus on very high-level.
-I explained and showcased the project in this video on my YouTube channel: [
-![video_thumbnail](https://i.ytimg.com/vi/g7xzVqpyiPY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCqVjLzCegP8thqtZqGjj18scJ81Q)
+I explained and showcased the project in this video on my YouTube channel:  
+[![video_thumbnail](https://i.ytimg.com/vi/g7xzVqpyiPY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCqVjLzCegP8thqtZqGjj18scJ81Q)
 ](https://youtu.be/g7xzVqpyiPY)
 
 ## Usage
