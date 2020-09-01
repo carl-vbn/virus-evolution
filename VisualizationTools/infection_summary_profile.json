@@ -1,0 +1,11 @@
+{
+    "arg_overrides": {
+        "fullscreen": true,
+        "hide": ["dominant_virus", "dead"]
+    },
+    "curve_colors": {
+        "healthy": [70, 160, 224],
+        "infected": [224, 70, 119],
+        "dead": [50,50,50]
+    }
+}
